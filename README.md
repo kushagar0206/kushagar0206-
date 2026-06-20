@@ -35,6 +35,6 @@ To become a professional Java Backend Developer and build real-world software ap
 ## 📫 Contact
 - Email: kushagar2003@gmail.com
 - GitHub: https://github.com/kushagar0206
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn: (https://www.linkedin.com/in/kushagar-upadhyay-237083363)
 
 ⭐ Thank you for visiting my profile!
